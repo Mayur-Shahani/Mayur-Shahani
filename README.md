@@ -21,7 +21,7 @@ Email: shahanimkwork@gmail.com
 He/Him
 
 ⚡ Fun Fact:
-I love problem-solving and enjoy challenges like debugging complex code or solving logic puzzles.
+I love problem-solving and enjoy challenges like debugging Complex Code or solving logic puzzles.
 <h3 align="left">My Stats :</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mayur-Shahani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
