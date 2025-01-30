@@ -8,10 +8,10 @@
 I’m passionate about exploring technology, solving challenging problems, and building innovative solutions.
 
 🌱 Currently Learning:
-I’m currently learning C++ to strengthen my programming skills and delve deeper into software development.
+I’m currently learning C++ and Java to strengthen my programming skills and delve deeper into software development.
 
 💞️ Looking to Collaborate On:
-C++ projects, beginner-friendly open-source initiatives, or anything where I can apply my learning and grow.
+C++ and Java projects, beginner-friendly open-source initiatives, or anything where I can apply my learning and grow.
 
 📫 How to Reach Me:
 
