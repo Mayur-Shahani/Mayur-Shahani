@@ -3,7 +3,7 @@
 
 👀 About Me:
 
-💡 Interest:
+💡 Interests:
 
 I’m passionate about exploring technology, solving challenging problems, and building innovative solutions.
 
