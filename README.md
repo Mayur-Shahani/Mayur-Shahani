@@ -1,7 +1,6 @@
-👋 Hi
-    I’m @Mayur-Shahani.
+👋 Hi I’m @Mayur-Shahani.
 
-👀 About  Me:
+👀 About Me:
 
 💡 Interest:
 
@@ -18,7 +17,7 @@ C++ and Java projects, beginner-friendly open-source initiatives, or anything wh
 Email: shahanimkwork@gmail.com
 
 😄 Pronouns:
-He/Him
+  He/Him
 
 ⚡ Fun Fact:
 I love problem-solving and enjoy challenges like debugging Complex Code or solving logic puzzles.
