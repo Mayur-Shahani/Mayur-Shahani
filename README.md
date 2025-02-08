@@ -1,6 +1,6 @@
 👋 Hi I’m @Mayur-Shahani.
 
-👀 About Me:
+👀 About Me: 
 
 💡 My Interest:
 
