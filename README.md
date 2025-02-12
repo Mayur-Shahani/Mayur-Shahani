@@ -4,7 +4,7 @@
 
 💡 My Interest:
 
-I’m passionate about exploring technology, solving challenging problems, and building innovative solutions.
+I’m passionate about exploring technology, solving challenging problems, and building innovative solution.
 
 🌱 Currently Learning:
 I’m currently learning C++ and Java to strengthen my programming skills and delve deeper into software  development.
