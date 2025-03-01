@@ -9,18 +9,21 @@
 👀 **About Me:**  
 </p>
 <p align="left"> 
-💡 **My Interest:**  
+💡 **My Interest:** 
+ </p>
 I’m passionate about exploring technology, solving challenging problems, and building innovative solutions.  
-</p>
+<p align="left"> 
 🌱 **Currently Learning:**  
+ </p>
 I’m currently learning **C++ and Java** to strengthen my programming skills and delve deeper into software development.  
-
+<p align="left"> 
 💞️ **Looking to Collaborate On:**  
+  </p>
 C++ and Java projects, beginner-friendly open-source initiatives, or anything where I can apply my learning and grow.  
-
+<p align="left">
 📫 **How to Reach Me:**  
 📧 Email: shahanimkwork@gmail.com  
-
+ </p>
 😄 **Pronouns:**  
 He/Him  
 
