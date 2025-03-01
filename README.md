@@ -1,3 +1,6 @@
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Mayur-Shahani&label=Profile%20views&color=0e75b6&style=flat" alt="Mayur-Shahani" /> 
+</p>
 👋 Hi I’m @Mayur-Shahani.
 
 👀 About Me: 
