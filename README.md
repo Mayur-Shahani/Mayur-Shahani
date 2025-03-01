@@ -21,13 +21,16 @@ I’m currently learning **C++ and Java** to strengthen my programming skills an
   </p>
 C++ and Java projects, beginner-friendly open-source initiatives, or anything where I can apply my learning and grow.  
 <p align="left">
-📫 **How to Reach Me:**  
+📫 **How to Reach Me:** 
+  </p>
 📧 Email: shahanimkwork@gmail.com  
- </p>
-😄 **Pronouns:**  
+<p align="left">
+😄 **Pronouns:**
+   </p>
 He/Him  
-
+<p align="left">
 ⚡ **Fun Fact:**  
+    </p>
 I love problem-solving and enjoy challenges like debugging complex code or solving logic puzzles.  
 
 <h3 align="left">My Stats :</h3>
