@@ -5,32 +5,24 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Mayur-Shahani&label=Profile%20views&color=0e75b6&style=flat" alt="Mayur-Shahani" /> 
 </p>
-<p align="left"> 
-👀 **About Me:**  
-</p>
-<p align="left"> 
-💡 **My Interest:** 
- </p>
+<h3 align="left">👀 About Me:</h3>
+
+<h4 align="left">💡 My Interest:</h4>
 I’m passionate about exploring technology, solving challenging problems, and building innovative solutions.  
-<p align="left"> 
-🌱 **Currently Learning:**  
- </p>
+
+<h4 align="left">🌱 Currently Learning:</h4>
 I’m currently learning **C++ and Java** to strengthen my programming skills and delve deeper into software development.  
-<p align="left"> 
-💞️ **Looking to Collaborate On:**  
-  </p>
+
+<h4 align="left">💞️ Looking to Collaborate On:</h4>
 C++ and Java projects, beginner-friendly open-source initiatives, or anything where I can apply my learning and grow.  
-<p align="left">
-📫 **How to Reach Me:** 
-  </p>
+
+<h4 align="left">📫 How to Reach Me:</h4>
 📧 Email: shahanimkwork@gmail.com  
-<p align="left">
-😄 **Pronouns:**
-   </p>
+
+<h4 align="left">😄 Pronouns:</h4>
 He/Him  
-<p align="left">
-⚡ **Fun Fact:**  
-    </p>
+
+<h4 align="left">⚡ Fun Fact:</h4>
 I love problem-solving and enjoy challenges like debugging complex code or solving logic puzzles.  
 
 <h3 align="left">My Stats :</h3>
