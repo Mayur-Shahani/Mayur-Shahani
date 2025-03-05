@@ -1,6 +1,6 @@
 <h1 align="center">
  
-<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&color=7A5AE4&size=25&center=true&vCenter=true&width=500&height=50&duration=2000&lines=Hi+There!+👋;+I'm+Mayur+Shahani+👨🏻‍💻;+BSCS+Student🎓" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7A5AE4&size=25&center=true&vCenter=true&width=500&height=50&duration=2000&lines=Hi+There!+👋;+I'm+Mayur+Shahani+👨🏻‍💻;+BSCS+Student🎓" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Mayur-Shahani&label=Profile%20views&color=0e75b6&style=flat" alt="Mayur-Shahani" /> 
