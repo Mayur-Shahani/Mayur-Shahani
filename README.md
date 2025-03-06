@@ -23,7 +23,7 @@ C++ and Java projects, beginner-friendly open-source initiatives, or anything wh
 He/Him  
 
 <h4 align="left">⚡ Fun Fact:</h4>
-I love problem-solving and enjoy challenges like debugging complex code or solving logic puzzles.  
+I love Problem-solving and enjoy challenges like debugging complex code or solving logic puzzles.  
 
 <h3 align="left">My Stats :</h3>
 <div align="center">
