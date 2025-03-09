@@ -17,7 +17,7 @@ I’m currently learning **C++ and Java** to strengthen my programming skills an
 C++ and Java projects, beginner-friendly open-source initiatives, or anything where I can apply my learning and grow.  
 
 <h4 align="left">📫 How to Reach Me:</h4>
-📧 Email: shahanimkwork@gmail.com  
+📧 Email: **shahanimkwork@gmail.com** 
 
 <h4 align="left">😄 Pronouns:</h4>
 He/Him  
