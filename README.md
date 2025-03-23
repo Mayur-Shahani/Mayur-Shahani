@@ -15,7 +15,7 @@ I am passionate about exploring technology, tackling challenging problems, and c
 I’m currently learning **C++ and Java** to strengthen my programming skills and delve deeper into software development.  
 
 <h4 align="left">💞️ Looking to Collaborate On:</h4>
-C++ and Java projects, beginner-friendly open-source initiatives, or anything where I can apply my learning and grow.  
+C++ and Java projects, beginner-friendly open-source initiative, or anything where I can apply my learning and grow.  
 
 <h4 align="left">📫 How to Reach Me:</h4>
 📧 Email: shahanimkwork@gmail.com 
