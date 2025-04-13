@@ -8,7 +8,7 @@
 <h3 align="left">👀 About Me:</h3>
 
 <h4 align="left">💡 My Interest:</h4>
-I am passionate about exploring technology,tackling challenging problems, and creating innovative solutionthat drive meaningful impact.
+I am passionate about exploring technology,tackling challenging problems, and creating innovative solution that drive meaningful impact.
 
 <h4 align="left">🌱 Currently Learning:</h4>
 I’m currently learning **C++ and Java** to strengthen my programming skills and delve deeper into software development.  
