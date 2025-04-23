@@ -11,7 +11,7 @@
 I am Passionate about exploring technology, tackling challenging problems, and creating innovative solution that drive meaningful impact.
 
 <h4 align="left">🌱 Currently Learning:</h4>
-I’m currently learning **C++ and Java** to strengthen my programming skills and delve deeper into software development.  
+I am currently learning **C++ and Java** to strengthen my programming skills and delve deeper into software development.  
 
 <h4 align="left">💞️ Looking to Collaborate On:</h4>
 C++ and Java projects, beginner-friendly open-source initiative, or anything where I can apply my learning and grow.  
