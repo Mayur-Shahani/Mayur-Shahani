@@ -22,7 +22,7 @@ C++ and Java projects, beginner-friendly open-source initiative, or anything whe
 <h4 align="left">😄 Pronouns:</h4>
 He/Him  
 
-<h4 align="left">⚡ Fun Facts:</h4>
+<h4 align ="left">⚡ Fun Facts:</h4>
 I Love Problem-solving and enjoy challenges like debugging complex code or solving logic Puzzles.  
 
 <h3 align="left">My Stats :</h3>
