@@ -7,7 +7,7 @@
 </p>
 <h3 align="left">👀 About Me:</h3>
 
-<h4 align="left">💡 My Interest:</h4>
+<h4 align="left">💡 My Interests:</h4>
 I am Passionate about exploring technology, tackling challenging problem, and creating innovative solution that drive meaningful impact.
 
 <h4 align="left">🌱 Currently Learning:</h4>
