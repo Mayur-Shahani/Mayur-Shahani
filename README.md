@@ -5,7 +5,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Mayur-Shahani&label=Profile%20views&color=0e75b6&style=flat" alt="Mayur-Shahani" /> 
 </p>
-<h3 align="left">👀 About Me:</h3>
+<h3 align="left"> About Me:</h3>
 
 <h4 align="left">💡 My Interests:</h4>
 I am Passionate about exploring technology, tackling challenging problems, and creating innovative Solution that drive meaningful impact.
