@@ -19,7 +19,7 @@ C++ and Java projects, beginner-friendly open-source initiative, or anything whe
 <h4 align="left">📫 How to Reach Me:</h4>
 📧 Email: shahanimkwork@gmail.com 
 
-<h4 align="left">😄 Pronouns:</h4>
+<h4 align="left">😄 Pronoun:</h4>
 He/Him  
 
 <h4 align ="left">⚡ Fun Facts:</h4>
